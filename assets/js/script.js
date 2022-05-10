@@ -3,7 +3,7 @@ async function fetchOMDB() {
 	console.log(inputMovie);
 	const outputMovie = document.getElementsByClassName("output-movie")[0];
 
-	const url = "http://www.omdbapi.com/?apikey=ed5617c5";
+	const url = "https://www.omdbapi.com/?apikey=ed5617c5";
 	const inputURL = url + "&t=" + inputMovie;
 	console.log(inputURL);
 
