@@ -1,4 +1,5 @@
 # 220411-SYNRGY-Movie-Finder
+https://exa-extensia.github.io/220411-SYNRGY-Movie-Finder/
 
 Excercise : 
 - simple fetch movie title & poster from OMDb API with pop art styled
